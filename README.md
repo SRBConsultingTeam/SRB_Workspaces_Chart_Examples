@@ -1,6 +1,6 @@
 # Chart Examples for SRB Workspaces
 
-With [SRB Workspaces](https://www.srb.at/produkte/) release 2303 the following chart types are supported:
+With [SRB Workspaces](https://www.srb.at/produkte/#pp_1410) release 2303 the following chart types are supported:
 
 ![grafik](https://user-images.githubusercontent.com/5223668/220046912-0845f1e5-41d8-4916-afc1-5671e2036d2c.png)
 
