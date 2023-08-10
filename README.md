@@ -1,5 +1,12 @@
 # Chart Examples for SRB Workspaces
 
+[![srb.at](assets/srb_logo.png)](https://www.srb.at)
+
+[![Blog](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=srb.at&message=Blog)](https://www.srb.at/blog--events/)
+[![Products](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=srb.at&message=Products)](https://www.srb.at/produkte/)
+[![GitHub](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=srb.at&message=github&logo=github)](https://github.com/SRBConsultingTeam/)
+[![License](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=License&message=MIT)](LICENSE)
+
 With [SRB Workspaces](https://www.srb.at/produkte/#pp_1410) release 2303 the following chart types are supported:
 
 ![grafik](https://user-images.githubusercontent.com/5223668/220046912-0845f1e5-41d8-4916-afc1-5671e2036d2c.png)
